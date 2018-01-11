@@ -1,7 +1,7 @@
 # Facebook Echo Bot
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/3afc05a50a5d4e1ca06fe46a288146c4)](https://www.codacy.com/app/jagreetdg/facebook-echo-bot?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=jagreetdg/facebook-echo-bot&amp;utm_campaign=Badge_Grade)
 [![Build Status](https://travis-ci.org/jboss-outreach/facebook-echo-bot.svg?branch=master)](https://travis-ci.org/jboss-outr/facebook-echo-bot)
-[![Gitter chat](https://badges.gitter.im/gitterHQ/services.png)](https://gitter.im/jboss-outreach)
+[![Gitter chat](https://badges.gitter.im/gitterHQ/services.svg)](https://gitter.im/jboss-outreach)
 
 ## Contents
 * [Introduction](#intro)
@@ -320,4 +320,5 @@ $ git push origin :<your-name-branch>
 * [MacOS Terminal handbook](https://developer.apple.com/library/content/documentation/OpenSource/Conceptual/ShellScripting/CommandLInePrimer/CommandLine.html)
 * [Heroku Handbook](https://devcenter.heroku.com/)
 * [Maven Handbook](http://www.jcabi.com/jcabi-heroku-maven-plugin/example-start.html)
+
 [![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)
